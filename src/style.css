@@ -1,0 +1,52 @@
+.main_container{
+    /* border: 1px solid black; */
+    width: 50%;
+}
+.container_div{
+    width: 96%;
+    /* border:1px solid black; */
+    margin: auto;
+}
+
+.flex_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.halfBlocks{
+    display: inline-block;
+    height: 5vh;
+    margin: 2px 0px 2px 0px;
+}
+
+.halfBlocks input{
+    width: 22vw;
+    height: 100%;
+}
+
+.text{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size: small;
+}
+
+.fullBlocks{
+    height: 5vh;
+    /* border: 1px solid black; */
+}
+
+.fullBlocks input{
+  width: 98.5%;
+  height: 100%;
+}
+
+.fullBlocks1{
+    height: 10vh;
+    border: 1px solid black;
+}
+.fullBlocks1 textarea{
+    width: 99%;
+    height: 100%;
+}
+
+
